@@ -7,6 +7,7 @@ For the purposes of this project, we use a single-cell RNA-seq dataset [1] on hu
 [[project proposal](https://github.com/Laknath1996/neurogenesis/blob/main/CMM_Project_Proposal_Group3.pdf)] [[project report](https://github.com/Laknath1996/neurogenesis/blob/main/CMM_Project_Report_Group3.pdf)]
 
 Group members: Ashwin De Silva, Sai Koukuntla, Ime Essien
+
 Course Instructor: Prof. Donald Geman
 
 ### References
